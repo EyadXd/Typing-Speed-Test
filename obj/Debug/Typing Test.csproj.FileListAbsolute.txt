@@ -1,0 +1,10 @@
+C:\Users\UNIX\source\repos\Typing Test\bin\Debug\Typing Test.exe.config
+C:\Users\UNIX\source\repos\Typing Test\bin\Debug\Typing Test.exe
+C:\Users\UNIX\source\repos\Typing Test\bin\Debug\Typing Test.pdb
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing Test.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing_Test.Form1.resources
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing_Test.Properties.Resources.resources
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing Test.csproj.GenerateResource.cache
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing Test.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing Test.exe
+C:\Users\UNIX\source\repos\Typing Test\obj\Debug\Typing Test.pdb
